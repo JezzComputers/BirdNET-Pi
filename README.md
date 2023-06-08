@@ -1,15 +1,10 @@
 # BirdNET-Pi
 ## Item List
-*Raspberry Pi 3 or higher
 
-*Power supply (for pi of choice)
-
-*Thermal Pads with heatsinks (for pi of choice (Recommended but optional))
-
-*Micro SD card (16GB or higher)
-
-*USB Microphone
-
-*Internet connection (Using ethernet is recommended but you can also use the built in wireless)
-
-*Keyboard/Mouse/Display (with cables if needed)
+1. Raspberry Pi 3 or higher
+2. Power supply for Pi of choice
+3. Thermal pads with heatsinks (for pi of choice)
+4. Micro SD card (16gb or higher)
+5. USB microphone
+6. Internet connection (Using ethernet is recommended but you can also use the built in wireless)
+7. Keyboard/Mouse/Display (With cables if needed)
