@@ -17,3 +17,10 @@
 6. Optionally before the WRITING process click the settings menu to configure OS before flashing
 7. Select WRITE and wait for flashing to finish
 8. When prompted remover micro-SD card
+
+## Prepping the Raspberry-Pi (Pre-Boot)
+1. Install heatsinks
+2. Place your Raspberry Pi in a position near a door/window with access to outside air and noise
+3. Place mic outside next to window/door and run mic wire through window/door then plug mic into your Raspberry pi then plug in any other items such as ethernet
+4. Ensure everything is plugged in
+5. Power On
