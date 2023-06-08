@@ -9,3 +9,4 @@
 7. Keyboard/Mouse/Display (With cables if needed)
 
 ## Flashing the operating system
+1. Open Raspberry Pi imager (Download - https://www.raspberrypi.com/software/)
