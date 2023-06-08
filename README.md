@@ -10,3 +10,10 @@
 
 ## Flashing the operating system
 1. Open Raspberry Pi imager (Download - https://www.raspberrypi.com/software/)
+2. Select CHOOSE OS
+3. Select RASPBERRY PI OS (64-bit)
+4. Select CHOOSE STORAGE
+5. Select your SD card from the menu
+6. Optionally before the WRITING process click the settings menu to configure OS before flashing
+7. Select WRITE and wait for flashing to finish
+8. When prompted remover micro-SD card
