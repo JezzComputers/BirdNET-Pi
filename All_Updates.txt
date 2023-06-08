@@ -1,0 +1,1 @@
+sudo apt update -y && sudo apt update --fix-missing -y && sudo apt-get update -y && sudo apt-get update --fix-missing -y && sudo apt upgrade -y && sudo apt upgrade --fix-missing -y && sudo apt full-upgrade -y && sudo apt full-upgrade --fix-missing -y && sudo apt autoremove -y && sudo apt autoremove --fix-missing -y && sudo apt clean -y
