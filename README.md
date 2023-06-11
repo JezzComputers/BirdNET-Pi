@@ -31,8 +31,7 @@
 3. After your pi has restarted (As many times as it needs to) you will see a setup wizard or if you used the settings menu, you would see the desktop
 4. The setup wizzard:
 
-![100px-Setup_wizard]("https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/895306b9-20c6-47e4-9c72-ef9ea74817db" size=100)
-!<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/895306b9-20c6-47e4-9c72-ef9ea74817db)" width="150" height="280">
+![100px-Setup_wizard](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/895306b9-20c6-47e4-9c72-ef9ea74817db)
 
 6. The GUI Desktop - 
 
