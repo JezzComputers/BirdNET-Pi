@@ -29,8 +29,9 @@
 1. Ensure all cables are plugged and then LASTLY the power cable to Raspberry Pi
 2. Don't touch your pi until the next step is done
 3. After your pi has restarted (As many times as it needs to) you will see a setup wizard or if you used the settings menu, you would see the desktop
-4. The setup wizzard - ![800px-Setup_wizard](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/895306b9-20c6-47e4-9c72-ef9ea74817db)
-5. The GUI Desktop - 
+4. The setup wizzard:
+![400px-Setup_wizard](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/895306b9-20c6-47e4-9c72-ef9ea74817db)
+6. The GUI Desktop - 
 
 ## Troubleshooting
 Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
