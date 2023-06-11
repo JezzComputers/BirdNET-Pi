@@ -24,3 +24,6 @@
 3. Place mic outside next to window/door and run mic wire through window/door then plug mic into your Raspberry pi then plug in any other items such as ethernet
 4. Ensure everything is plugged in
 5. Power On
+
+## Troubleshooting
+Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command = <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
