@@ -9,7 +9,7 @@
 7. Keyboard/Mouse/Display (With cables if needed)
 
 ## Flashing the operating system
-1. Open Raspberry Pi imager (Download - https://www.raspberrypi.com/software/)
+1. Open Raspberry Pi imager (Download - https://www.raspberrypi.com/software)
 2. Select CHOOSE OS
 3. Select RASPBERRY PI OS (64-bit)
 4. Select CHOOSE STORAGE
@@ -26,4 +26,4 @@
 5. Power On
 
 ## Troubleshooting
-Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command = <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
+Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
