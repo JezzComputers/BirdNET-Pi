@@ -47,5 +47,14 @@
 11. Change the default username, password, and the hostname to ones you will remember. Also change the Wi-Fi settings to the ones matching your area
 12. In the interface tab leave all off except for SSH and VNC because they will be used for communicating with the Raspberry Pi wirelessly
 
+## Recommended Additions
+=Software Removal=
+1. Click the Raspberry Pi menu then click Preferences then Recommended Software
+
+![Pi-rec-software](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/7ef131c7-e6d2-4f22-95be-b037b28196c2)
+
+3. Scroll down unchecking all of the software that you don't want
+4. Then click apply (bottom right corner of screen)
+
 ## Troubleshooting
 Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
