@@ -31,9 +31,21 @@
 3. After your pi has restarted (As many times as it needs to) you will see a setup wizard or if you used the settings menu, you would see the desktop
 4. The setup wizzard:
 
-![image](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/bbcddef9-2dce-48be-a8f4-b7fa6aac09e9)
+![Setup Wizard](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/bbcddef9-2dce-48be-a8f4-b7fa6aac09e9)
 
-6. The GUI Desktop - 
+6. The GUI Desktop:
+
+![Desktop](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/d7bd8a91-d461-4644-a1e4-d2dbac4db6cf)
+
+7. Follow the ssetup wizard to complete instalation (Skip this step if you were taken to the desktop)
+8. If prompted follow further instructions to finish setting up your Raspberry Pi
+9. Open the Raspberry Pi menu then select Preferences then Raspberry pi configuration
+
+![Pi-config](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/1370a769-f7ba-4dd2-9396-f23a2c702f56)
+
+10. Go through the individual tabs changing any settings to suit your needs
+11. Change the default username, password, and the hostname to ones you will remember. Also change the Wi-Fi settings to the ones matching your area
+12. In the interface tab leave all off except for SSH and VNC because they will be used for communicating with the Raspberry Pi wirelessley
 
 ## Troubleshooting
 Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
