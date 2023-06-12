@@ -55,6 +55,7 @@
 
 3. Scroll down unchecking all of the software that you don't want
 4. Then click apply (bottom right corner of screen)
+
 **TeamViewer Install**
 To directly download, run this script in the Raspberry Pi terminal; <code>wget https://download.teamviewer.com/download/linux/teamviewer_arm64.deb</code>
 To download follow these steps:
