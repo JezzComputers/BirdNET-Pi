@@ -48,7 +48,7 @@
 12. In the interface tab leave all off except for SSH and VNC because they will be used for communicating with the Raspberry Pi wirelessly
 
 ## Recommended Additions
-=Software Removal=
+==Software Removal==
 1. Click the Raspberry Pi menu then click Preferences then Recommended Software
 
 ![Pi-rec-software](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/7ef131c7-e6d2-4f22-95be-b037b28196c2)
