@@ -58,9 +58,9 @@
 **TeamViewer Install**
 To directly download, run this script in the Raspberry Pi terminal; <code>wget https://download.teamviewer.com/download/linux/teamviewer_arm64.deb</code>
 To download follow these steps:
-1. Navigete to your prefered web browser
+1. Navigate to your preferred web browser
 2. Paste this link into the search bar: https://www.teamviewer.com/en-us/download/raspberry-pi
-3. You should see a page similar to this:
+3. You should see a page like this:
 
 ![image](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/f97cd7da-042c-41e9-8e09-f7b14be22a9c)
 
