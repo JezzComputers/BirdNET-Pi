@@ -29,7 +29,7 @@
 1. Ensure all cables are plugged and then LASTLY the power cable to Raspberry Pi
 2. Don't touch your pi until the next step is done
 3. After your pi has restarted (As many times as it needs to) you will see a setup wizard or if you used the settings menu, you would see the desktop
-4. The setup wizzard:
+4. The setup wizard:
 
 ![Setup Wizard](https://github.com/JezzComputers/BirdNET-Pi/assets/129046176/bbcddef9-2dce-48be-a8f4-b7fa6aac09e9)
 
