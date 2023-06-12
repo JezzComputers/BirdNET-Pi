@@ -55,6 +55,11 @@
 
 3. Scroll down unchecking all of the software that you don't want
 4. Then click apply (bottom right corner of screen)
+**TeamViewer Install**
+To directly download, run this script in the raspberry pi terminal; <code>wget https://download.teamviewer.com/download/linux/teamviewer-host_armhf.deb</code>
+To download follow these steps:
+1. Navigete to your prefered web browser
+2. Paste this link into the search bar: https://www.teamviewer.com/en-us/download/raspberry-pi
 
 ## Troubleshooting
 Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
