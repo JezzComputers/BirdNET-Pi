@@ -69,7 +69,7 @@ To download follow these steps:
 6. On your Raspberry Pi run the TeamViewer installer then do as prompted
 From the terminal
 1. Go to the folder/directory with the TeamViewer installer in it
-2. Run this command: <code>sudo dpkg -i teamviewer_15.42.4_arm64.deb</code> (IMPORTAINT change the 15.42.4 to whatever vertion you have)
+2. Run this command: <code>sudo dpkg -i teamviewer_15.42.4_arm64.deb</code> (IMPORTAINT change the 15.42.4 to whatever version you have)
 
 ## Troubleshooting
 Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
