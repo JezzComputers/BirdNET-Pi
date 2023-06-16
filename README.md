@@ -73,5 +73,9 @@ From the terminal
 1. Go to the folder/directory with the TeamViewer installer in it
 2. Run this command: <code>sudo dpkg -i teamviewer_15.42.4_arm64.deb</code> (IMPORTAINT change the 15.42.4 to whatever version you have)
 
+**NodeRED Install + Run on boot**
+
+Run this script in the Raspberry Pi termainal; <code>bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)</code>
+To enable autstart on boot run this script; <code>sudo systemctl enable nodered.service</code>
 ## Troubleshooting
 Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
