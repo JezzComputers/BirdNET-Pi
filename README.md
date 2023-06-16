@@ -75,7 +75,8 @@ From the terminal
 
 **NodeRED Install + Run on boot**
 
-Run this script in the Raspberry Pi termainal; <code>bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)</code>
-To enable autstart on boot run this script; <code>sudo systemctl enable nodered.service</code>
+Run this script in the Raspberry Pi terminal; <code>bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)</code>
+To enable AutoStart on boot run this script; <code>sudo systemctl enable nodered.service</code>
+
 ## Troubleshooting
 Updates Failing - If your BirdNET-Pi updates are failing or not working try running this command <code>chmod a+x ~/BirdNET-Pi/scripts/update_birdnet.sh</code>
