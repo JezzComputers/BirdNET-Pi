@@ -76,6 +76,7 @@ From the terminal
 **NodeRED Install + Run on boot**
 
 Run this script in the Raspberry Pi terminal; <code>bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)</code>
+
 To enable AutoStart on boot run this script; <code>sudo systemctl enable nodered.service</code>
 
 ## Troubleshooting
